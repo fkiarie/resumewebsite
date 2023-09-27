@@ -9,3 +9,8 @@
   --sidbar-width: 240px;
   --font-base: "Bai Jamjuree", sans-serif;
 }
+body{
+    background-color: var(--color-base2);
+    color: var(--color-body);
+    font-family: var(--font-base);
+}
