@@ -34,12 +34,17 @@ a:hover {
 img {
   width: 100%;
 }
+/* Navbar section */
 
 .navbar .nav-link{
     font-weight: 700;
     text-transform: uppercase;
     color: #fff;
 }
+.navbar .nav-link:hover {
+    color: var(--color-brand);
+}
+
 @media (min-width: 992px) {
   .navbar {
     min-height: 100vh;
