@@ -75,3 +75,6 @@ img {
 #content-wrapper{
   padding-left: var(--sidbar-width);
 }
+.text-brand{
+  color: var(--color-brand2);
+}
